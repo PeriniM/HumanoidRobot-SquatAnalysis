@@ -6,7 +6,5 @@
   - Run RoBee_model.slx;
   - Run the second section of plots.mlx
 # TODO:
-  - Perform an asymmetric squat (use spherical joints);
-  - Display center of gravity;
-  - Find additional weight that maximizes the motor torque (200Nm);
+  - Add assembly to the simlunk model or create a new one.
    
