@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 <!-- PROJECT LOGO -->
-<br />
 <div align="left">
 <h1 align="left"><b>Humanoid Robot Squat Analysis</b></h1>
 </div>
