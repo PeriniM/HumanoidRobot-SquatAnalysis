@@ -70,9 +70,15 @@ _Symmetric Squat Plots_
 <div align="left">
 <img src="Matlab/img/Sym_Squat.png" alt="sym_squat_image" width="60%">
 </div>
+
 _Asymmetric Squat Plots_
 <div align="left">
 <img src="Matlab/img/Asym_Squat.png" alt="sym_squat_image" width="60%">
+</div>
+
+_Simscape model_
+<div align="left">
+<img src="img/simscape_model.PNG" alt="sym_squat_image" width="60%">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
