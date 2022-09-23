@@ -12,12 +12,12 @@ The torso of the robot is considered as a vertical distruibuted force of 300N.
 
 A _symmetric squat_ consists of a squat where all the leg's joints actuate at the same time and with the same displacement, thus keeping the torso parallel to the ground.
 <div align="left">
-<img src="Matlab/img/sym_squat_img.PNG" alt="sym_squat_image" width="60%">
+<img src="matlab/img/sym_squat_img.PNG" alt="sym_squat_image" width="60%">
 </div>
 
 An _asymmetric squat_ consists of a squat where all the leg's joints actuate at the same time but with different displacements, thus the torso won't be parallel to the ground anymore.
 <div align="left">
-<img src="Matlab/img/asym_squat_img.PNG" alt="sym_squat_image" width="60%">
+<img src="matlab/img/asym_squat_img.PNG" alt="asym_squat_image" width="60%">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -61,17 +61,17 @@ The plots of the reaction forces at the joints for symmetric and asymmetric squa
 
 _Symmetric Squat Plots_
 <div align="left">
-<img src="Matlab/img/Sym_Squat.png" alt="sym_squat_image" width="60%">
+<img src="matlab/img/Sym_Squat.png" alt="sym_squat_plots" width="60%">
 </div>
 
 _Asymmetric Squat Plots_
 <div align="left">
-<img src="Matlab/img/Asym_Squat.png" alt="sym_squat_image" width="60%">
+<img src="matlab/img/Asym_Squat.png" alt="asym_squat_plots" width="60%">
 </div>
 
 _Simscape model_
 <div align="left">
-<img src="img/simscape_model.PNG" alt="sym_squat_image" width="60%">
+<img src="img/simscape_model.PNG" alt="simscape_model" width="60%">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
