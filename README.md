@@ -22,12 +22,6 @@ An _asymmetric squat_ consists of a squat where all the leg's joints actuate at 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
-<div align="left">
-<img src="img/matlab_simscape_logo.png" alt="Logo_simscape">
-</div>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -82,3 +76,8 @@ _Simscape model_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Built With
+<div align="left">
+<img src="img/matlab_simscape_logo.png" alt="Logo_simscape">
+</div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
